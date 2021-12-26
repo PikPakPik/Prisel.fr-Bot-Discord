@@ -14,7 +14,7 @@ const FileSync = require("lowdb/adapters/FileSync");
 const adapter = new FileSync("databaselocal.json");
 const database = low(adapter);
 const token =
-  "Nzg3ODg3Mjg2OTE0MjUyODMx.X9bfNw.-hR0XmXhUo0RPhNrLpLnSEHRk7g"; /*"NzcyMDk4MzA1MTM1NDc2NzU4.X51ulA.i0GOLznhjRFWO9OBhOLqwoEkDvw"*/
+  ""; 
 const Mutedrole = "PMuted";
 const LogsChannel = "prisel-logs";
 const db = require("quick.db");
